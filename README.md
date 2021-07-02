@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <--
-Here are some ideas to get you started:
+ some ideas to get you started for visit:
 
 - 🔭 I’m currently working on ...JAVA SCRIPT
 - 🌱 I’m currently learning ...JAVA SCRIPT
