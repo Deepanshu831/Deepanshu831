@@ -6,7 +6,7 @@
 ### Hi there 👋
 
 <--
- some ideas to get you started for visit:
+Hello Developer
 
 - 🔭 I’m currently working on ...Full Stack
 - 🌱 I’m currently learning ...How to build Web App
